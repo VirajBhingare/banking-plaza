@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+p {
+  font-weight: 300;  
+}
+
+.custom-container {
+  margin-bottom: 15%;
+}
+
+.bank-img {
+  width: 100%;
+}
+
+.tsf-logo {
+  margin-top: 15%;
+}
+
+.fas, .fab {
+  text-align: center;
+  color: #1C0C5B;
+}
+
+.social {
+  color: #1C0C5B;
+}
